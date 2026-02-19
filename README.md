@@ -1,4 +1,7 @@
----
+
+<p align="center">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTdqdTF3dWp2Y29wdXBhYTI1ZGJjd21tcm56OXhpbmhiMTF0YzN1eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/cephVlBe5AB7SSuK9p/giphy.gif" width="150">
+</p>
 
 # 👋 Salut, moi c’est Dorine Henry ![Status](https://img.shields.io/badge/Status-Open%20to%20work-success?style=plastic)
 
