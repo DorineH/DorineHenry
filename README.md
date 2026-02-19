@@ -1,6 +1,4 @@
 ---
-marp: false
----
 
 # 👋 Salut, moi c’est Dorine Henry ![Status](https://img.shields.io/badge/Status-Open%20to%20work-success?style=plastic)
 
